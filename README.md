@@ -2,10 +2,10 @@
 
 ## Installation Overview
 
-This is the REST service for fulfillment center one in my Pluralsight Apache Camel course. The project was built using a Maven archetype for Jersey. The project was built with the following:
+This is the REST service for fulfillment center one in my Pluralsight Apache Camel course. The project was built using a Maven archetype for Jersey. 
+The project was built with the following:
 
 ..* Implemented on Windows 8.1, 64-bit
-..* Eclipse
 ..* JDK 1.7.0_45
 ..* Maven 3
 ..* Jersey 2.14
@@ -19,7 +19,8 @@ To install the project, you will need to have Maven 2+ installed and configured.
 
 ## Running the Project
 
-Once you have successfully built the project, simply open a command prompt and run the following command from the root directory of the project: mvn exec:java
+Once you have successfully built the project, simply open a command prompt and run the following command from the root 
+directory of the project: mvn exec:java
 
 This will start the server and allow you to call the web service for order fulfillment. The URL is: 
 
